@@ -1,0 +1,5 @@
+shopify:
+    resource: "@ShopifyBundle/src/Controller/"
+    type:     annotation
+    prefix:   /
+
